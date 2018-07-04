@@ -16,6 +16,7 @@ KF5Module {
 		]
 	}
 
+    hasLibrary: false
 	staticLibsDebug: []
 	staticLibsRelease: []
 	dynamicLibsDebug: []

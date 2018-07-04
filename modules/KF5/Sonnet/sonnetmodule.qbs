@@ -10,7 +10,8 @@ KF5Module {
 		submodules: ["SonnetCore", "SonnetUi"]
 	}
 
-	staticLibsDebug: []
+    hasLibrary: false
+    staticLibsDebug: []
 	staticLibsRelease: []
 	dynamicLibsDebug: []
 	dynamicLibsRelease: []

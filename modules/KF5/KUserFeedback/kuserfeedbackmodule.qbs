@@ -10,6 +10,7 @@ KF5Module {
 		submodules: ["KUserFeedbackCore", "KUserFeedbackGui"]
 	}
 
+    hasLibrary: false
 	staticLibsDebug: []
 	staticLibsRelease: []
 	dynamicLibsDebug: []
